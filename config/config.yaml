@@ -1,0 +1,21 @@
+data:
+  raw_path: "../data/raw/api_extracted_data_clean_20260208_082801.csv"
+  supervised_path: "../data/processed/supervised_data.pkl"
+  unsupervised_path: "../data/processed/unsupervised_data.pkl"
+  target_column: "Do you think antipsychotics is helpful?"
+  
+model:
+  test_size: 0.2
+  random_state: 42
+  cv_folds: 5
+  
+supervised:
+  models_to_train:
+    - "Logistic Regression"
+    - "Random Forest"
+    - "Gradient Boosting"
+    - "Support Vector Machine"
+  
+unsupervised:
+  n_clusters: 3
+  pca_components: 10
