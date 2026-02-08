@@ -1,0 +1,43 @@
+================================================================================
+GRADIENT BOOSTING - TOP 15 FEATURE IMPORTANCES
+================================================================================
+
+Q1 - Importance: 0.3640
+--------------------------------------------------------------------------------
+Do you think a psychiatrist/psychologist will be helpful?
+
+Q2 - Importance: 0.1308
+--------------------------------------------------------------------------------
+The next few questions contain statements about John’s problem.  Please indicate how strongly YOU PERSONALLY agree or disagree with each statement. - It is best to avoid John so that you don’t develop this problem yourself.
+
+Q3 - Importance: 0.1217
+--------------------------------------------------------------------------------
+How many years of tertiary study have you had?
+
+Q4 - Importance: 0.0385
+--------------------------------------------------------------------------------
+What is your gender? - Selected Choice
+
+Q5 - Importance: 0.0384
+--------------------------------------------------------------------------------
+The next few questions contain statements about John’s problem.  Please indicate how strongly YOU PERSONALLY agree or disagree with each statement. - John’s problem makes him unpredictable.
+
+Q6 - Importance: 0.0339
+--------------------------------------------------------------------------------
+How likely is it that you would take the following actions with John? - Convey a message of hope by telling them help is available and things can get better.
+
+Q7 - Importance: 0.0333
+--------------------------------------------------------------------------------
+The next few questions contain statements about John’s problem.  Please indicate how strongly YOU PERSONALLY agree or disagree with each statement. - John’s problem is not a real medical illness.
+
+Q8 - Importance: 0.0283
+--------------------------------------------------------------------------------
+The next few questions contain statements about John’s problem.  Please indicate how strongly YOU PERSONALLY agree or disagree with each statement. - John’s problem is a sign of personal weakness.
+
+Q9 - Importance: 0.0267
+--------------------------------------------------------------------------------
+How likely is it that you would take the following actions with John? - Ask if they have been having thoughts of harming themselves or others.
+
+Q10 - Importance: 0.0254
+--------------------------------------------------------------------------------
+How likely is it that you would take the following actions with John? - Discuss their options for seeking professional help.

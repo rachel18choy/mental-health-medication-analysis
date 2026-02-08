@@ -1,0 +1,32 @@
+SUPERVISED LEARNING - CLASSIFICATION RESULTS
+======================================================================
+
+Model Performance Summary:
+
+Logistic Regression:
+  Accuracy:  0.8214
+  Precision: 0.7000
+  Recall:    0.7778
+  F1-Score:  0.7368
+  ROC-AUC:   0.8713
+
+Random Forest:
+  Accuracy:  0.8929
+  Precision: 0.8750
+  Recall:    0.7778
+  F1-Score:  0.8235
+  ROC-AUC:   0.9766
+
+Gradient Boosting:
+  Accuracy:  0.8929
+  Precision: 0.8750
+  Recall:    0.7778
+  F1-Score:  0.8235
+  ROC-AUC:   0.9474
+
+Support Vector Machine:
+  Accuracy:  0.8214
+  Precision: 0.6667
+  Recall:    0.8889
+  F1-Score:  0.7619
+  ROC-AUC:   0.9415

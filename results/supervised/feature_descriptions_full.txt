@@ -1,0 +1,64 @@
+================================================================================
+TOP 15 FEATURE IMPORTANCES - FULL QUESTION TEXT
+================================================================================
+
+Q1 - Importance: 0.1206
+----------------------------------------
+Do you think a psychiatrist/psychologist will be helpful?
+
+Q2 - Importance: 0.0589
+----------------------------------------
+What is your area of study? If you are not a student, please select "not a student".
+
+Q3 - Importance: 0.0511
+----------------------------------------
+The next few questions contain statements about John’s problem.  Please indicate how strongly YOU PERSONALLY agree or disagree with each statement. - It is best to avoid John so that you don’t develop this problem yourself.
+
+Q4 - Importance: 0.0467
+----------------------------------------
+The next few questions contain statements about John’s problem.  Please indicate how strongly YOU PERSONALLY agree or disagree with each statement. - John’s problem makes him unpredictable.
+
+Q5 - Importance: 0.0466
+----------------------------------------
+How many years of tertiary study have you had?
+
+Q6 - Importance: 0.0415
+----------------------------------------
+How likely is it that you would take the following actions with John? - Ask whether they have other supportive people they can rely on.
+
+Q7 - Importance: 0.0399
+----------------------------------------
+What is your age? (Age in years)
+
+Q8 - Importance: 0.0396
+----------------------------------------
+What do you think John is experiencing?
+
+Q9 - Importance: 0.0384
+----------------------------------------
+How likely is it that you would take the following actions with John? - Let them know you are listening to what they are saying by restating and summarising what they have said.
+
+Q10 - Importance: 0.0373
+----------------------------------------
+The following questions ask how you would feel about spending time with John. Please indicate how likely you would perform each statement. - To go to John’s house?
+
+Q11 - Importance: 0.0354
+----------------------------------------
+How likely is it that you would take the following actions with John? - Convey a message of hope by telling them help is available and things can get better.
+
+Q12 - Importance: 0.0342
+----------------------------------------
+The next few questions contain statements about John’s problem.  Please indicate how strongly YOU PERSONALLY agree or disagree with each statement. - John could snap out of it if he wanted.
+
+Q13 - Importance: 0.0341
+----------------------------------------
+How likely is it that you would take the following actions with John? - Find out if there are specific reasons why they do not want to seek professional help.
+
+Q14 - Importance: 0.0284
+----------------------------------------
+The next few questions contain statements about John’s problem.  Please indicate how strongly YOU PERSONALLY agree or disagree with each statement. - John’s problem is a sign of personal weakness.
+
+Q15 - Importance: 0.0276
+----------------------------------------
+How likely is it that you would take the following actions with John? - Try to convince them that their beliefs and perceptions are false.
+
